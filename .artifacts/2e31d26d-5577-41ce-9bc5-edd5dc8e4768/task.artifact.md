@@ -1,0 +1,4 @@
+- [x] Update `CalculatorInputFragment.kt` package and imports
+- [x] Update `ResultFragment.kt` package and imports
+- [x] Update `MainActivity.kt` package and imports
+- [x] Verify build with `./gradlew :app:assembleDebug`
